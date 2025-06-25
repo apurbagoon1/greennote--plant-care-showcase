@@ -32,6 +32,7 @@
 | **UI Enhancements**   | `sweetalert2`, `lottie-react`, `react-tooltip`, `swiper`, `react-responsive-carousel` |
 | **Icons**             | `react-icons`, `lucide-react`                                                       |
 | **Styling Tools**     | `@tailwindcss/vite`, `tailwindcss`, `daisyui`                                       |
+| **Backend**           | `express`, `mongodb`, `cors`, `dotenv`                                              |
 
 ---
 
